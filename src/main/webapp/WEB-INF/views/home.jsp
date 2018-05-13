@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Jana is DevOps Engineer!!
+			Janarthanan is DevOps Engineer!!
 			</h1>
 		
 			<div>
